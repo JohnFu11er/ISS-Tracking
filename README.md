@@ -8,18 +8,18 @@ Process:
 3. Run the file with:  python.exe get_iss_location.ps
 4. After that file has finished running, open the created file iss_position.kml and verify that there is data in it.
 5. Open install and open Google Earth
-6. A a new network link:
-  a. Click 'Add'
-  b. Click 'Network link'
-  c. Click 'Browse'
-  d. Enter a name for you network link.  ex: 'ISS Position'
-  e. Browse to where your iss_position.kml file is saved and select it
-  f. Click 'Open'
-  g. Click 'Refresh'
-  h. Set 'Time-based refresh' to 'Periodically' and 3 seconds
-  i. Click 'OK'
+6. A a new network link:<br>
+  a. Click 'Add'<br>
+  b. Click 'Network link'<br>
+  c. Click 'Browse'<br>
+  d. Enter a name for you network link.  ex: 'ISS Position'<br>
+  e. Browse to where your iss_position.kml file is saved and select it<br>
+  f. Click 'Open'<br>
+  g. Click 'Refresh'<br>
+  h. Set 'Time-based refresh' to 'Periodically' and 3 seconds<br>
+  i. Click 'OK'<br>
  7. View the plotted points by clickin on the name of your network link listed in the Google Earth 'Places' side panel.
- 
- *** Bonus ***
+ <br>
+ *** Bonus ***<br>
  While keeping Google Earth open, go back to your terminal line and run 'python.exe get_jiss_location.py' again.
  When it finishes running Google Earth will automatically update the newly plotted points on the map.
