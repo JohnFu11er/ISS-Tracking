@@ -3,7 +3,7 @@
 This program sends an API call to NASA's ISS tracking server and then creates a .kml file that plots these points for viewing in Google Earth.
 
 Process:
-1. Pull down file get_iss_loaction.py to a local repository or copy it to your computer.
+1. Pull down file get_iss_location.py to a local repository or copy it to your computer.
 2. Open a terminal window and navigate to the directory where you saved the file.
 3. Run the file with:  python.exe get_iss_location.ps
 4. After that file has finished running, open the created file iss_position.kml and verify that there is data in it.
@@ -21,5 +21,5 @@ Process:
  7. View the plotted points by clickin on the name of your network link listed in the Google Earth 'Places' side panel.
  <br>
  *** Bonus ***<br>
- While keeping Google Earth open, go back to your terminal line and run 'python.exe get_jiss_location.py' again.
+ While keeping Google Earth open, go back to your terminal line and run 'python.exe get_iss_location.py' again.
  When it finishes running Google Earth will automatically update the newly plotted points on the map.
