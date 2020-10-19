@@ -18,7 +18,7 @@ Process:
   g. Click 'Refresh'<br>
   h. Set 'Time-based refresh' to 'Periodically' and 3 seconds<br>
   i. Click 'OK'<br>
- 7. View the plotted points by clickin on the name of your network link listed in the Google Earth 'Places' side panel.
+ 7. View the plotted points by clicking on the name of your network link listed in the Google Earth 'Places' side panel.
  <br>
  *** Bonus ***<br>
  While keeping Google Earth open, go back to your terminal line and run 'python.exe get_iss_location.py' again.
